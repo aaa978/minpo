@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483358482568",
+    "project_id": "minpo-45dc1",
+    "storage_bucket": "minpo-45dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483358482568:android:3c1ce3be54f0b2ccd27f3d",
+        "android_client_info": {
+          "package_name": "com.github.aaa978.minpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483358482568-4elvhjae15u9epdmpehq1n2b37el5fh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYcS2dtkQT0j-RL-pO4g1l2ZZH__bG_ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483358482568-4elvhjae15u9epdmpehq1n2b37el5fh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
